@@ -6,7 +6,8 @@
 - :books: Soy estudiante de Computer Science en UTEC
 - :ledger: Actualmente estoy cursando el primer ciclo de la carrera
 ### Me gusta
-- Jugar videojuegos
+- :space_invader:Jugar videojuegos
 - Leer libros
 - Hacer deporte
+
  
