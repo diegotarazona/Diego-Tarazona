@@ -3,8 +3,8 @@
 
 ### Sobre mi
 - :wave: Mi nombre es Diego Tarazona
-- :books: Soy estudiante de Computer Science en UTEC
-- :ledger: Actualmente estoy cursando el primer ciclo de la carrera
+- :books: Soy estudiante de Gestión y Alta Dirección en la PUCP
+- :ledger: Actualmente estoy cursando el sexto ciclo de la carrera
 ### Me gusta
 - :space_invader:Jugar videojuegos
 - Leer libros
